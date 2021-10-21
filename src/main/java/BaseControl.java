@@ -17,8 +17,8 @@ public class BaseControl extends Base {
 
     @Test
     public void test(){
-        //loginPage.Sıngın().EMAİLın().PASSWORDın().LoginBTNın();
-        //controlCheck.LoginCheck();
+        loginPage.Sıngın().EMAİLın().PASSWORDın().LoginBTNın();
+        controlCheck.LoginCheck();
         metotPage.Searchın().Searchbtnın().Pageın();
         controlCheck.PageCheck();
         metotPage.Productın().Basketın().Basketbtnın().Pop();

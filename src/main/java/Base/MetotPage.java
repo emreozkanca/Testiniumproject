@@ -39,7 +39,7 @@ public class MetotPage extends MainBase {
         return this;
     }
     public MetotPage Productın(){
-        getRandomProduct();
+        RandomProduct();
         return this;
     }
     public MetotPage Basketın(){

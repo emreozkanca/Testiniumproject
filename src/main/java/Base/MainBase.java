@@ -41,7 +41,7 @@ public class MainBase {
         findElement(by).getText();
     }
     //Random Product Method
-    public void getRandomProduct(){
+    public void RandomProduct(){
         Random random = new Random();
 
         List<WebElement> Products = driver.findElements(ConstantVariable.PRODUCT);
